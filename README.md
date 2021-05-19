@@ -1,2 +1,2 @@
 # BE-Project
-Be Project 
+Be Project on Attendance Monitoring System.
